@@ -1,0 +1,11 @@
+SysAdmin 200
+Backuper 201
+Balancer 210
+Web1 211
+Web2 212
+Web3 213
+Mysql-master 220
+Mysql-slave 221
+NoSQL 230
+Static 240
+Mailer 241
